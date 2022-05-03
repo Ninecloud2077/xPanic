@@ -1,0 +1,46 @@
+# xPanic-specific files
+/xPanic-Server*
+/accounts/
+/autoexec_server.cfg
+/autoexec_server.log
+
+# bam
+/.bam/
+/config.lua
+
+# Python
+__pycache__/
+/datasrc/*.pyc
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
